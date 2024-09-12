@@ -1,0 +1,29 @@
+h1 {
+    background-color:purple;
+}
+
+h2 {
+    background-color:red;
+}
+
+
+h3 {
+    text-indent: 50px;
+}
+
+img {
+    width:500px;
+    height:600px;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+th, td {
+    text-align: center;
+}
+
+tr {
+    background-color:lightblue
+}
